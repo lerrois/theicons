@@ -280,6 +280,7 @@
   display: block;
   text-align: right;
   width: 840px;
+  margin-top: 90px;
 }
 .themain .page {
   display: inline-block;
@@ -300,7 +301,6 @@
 }
 .themain .page:last-child {
   margin-right: 0;
-  padding-top: 10px;
 }
 .themain .page:hover {
   background-color: #46A358;

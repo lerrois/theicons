@@ -290,6 +290,7 @@
         display: block;
         text-align: right;
         width: 840px;
+        margin-top: 90px;
     }
     
     .page {
@@ -313,9 +314,8 @@
     
     .page:last-child {
         margin-right: 0;
-        padding-top: 10px;
     }
-    
+
     .page:hover {
         background-color: #46A358;
         border: 0;
@@ -388,7 +388,6 @@
 }
 
 .thebanners {
-    
     .wrapper {
         width: 1200px;
         margin-left: auto;
@@ -554,7 +553,6 @@
 }
 
 .thefooter {
-
     .wrapper {
         width: 1200px;
         margin-left: auto;
